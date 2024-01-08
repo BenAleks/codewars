@@ -11,7 +11,7 @@
 //     Examples
 // Input: ["sheep", "sheep", "sheep", "wolf", "sheep"]
 // Output: "Oi! Sheep number 1! You are about to be eaten by a wolf!"
-//
+
 // Input: ["sheep", "sheep", "wolf"]
 // Output: "Pls go away and stop eating my sheep"
 
