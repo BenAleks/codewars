@@ -3,9 +3,8 @@
 //     Your task is to debug the code before your plants die!
 
 function rainAmount(rainAmount){
-    if (rainAmount < 40) {
+    if (rainAmount < 40)
         return `You need to give your plant ${40 - rainAmount}mm of water`
-    } else {
-        return "Your plant has had more than enough water for today!"
-    }
+    else return "Your plant has had more than enough water for today!"
+
 }
